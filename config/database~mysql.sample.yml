@@ -16,8 +16,8 @@ common: &common
   adapter: mysql
   encoding: utf8
   socket: <%= `mysql_config --socket`.chomp %>
-  username: adminwrpxiWP
-  password: 6WRVLeiR9QJf
+  username: adminrfzbjXu
+  password: g_9WqVwbKiDE
 
 development:
   database: ocw_dev
